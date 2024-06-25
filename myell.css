@@ -388,14 +388,16 @@ h2{
     margin-top: 420px;
     text-align: center;
 }
-h3{
+h3
+{
     font-family: 'Pacifico', cursive;
     color: #00008B;
     text-shadow: 0 2px rgba(0,0,0,0.5);
     font-size: 20px;
     margin-top: 420px;
     text-align: center;
-}h4{
+}
+h4{
     font-family: 'Pacifico', cursive;
     color: #00008B;
     text-shadow: 0 2px rgba(0,0,0,0.5);
