@@ -2,6 +2,10 @@ body{
     background-image: url(https://i.pinimg.com/564x/84/e6/63/84e663e0135f424c131a664e0cb066d3.jpg);
     background-size: cover;
 }
+.myell{
+    height: 100px;
+    width: 100px;
+}
 .background{
     height: 550px;
     width: 350px;
