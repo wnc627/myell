@@ -414,6 +414,10 @@ h2{
     grid-row: span 2;
 }
 
+.yt{
+position: relative;
+}
+
 @media screen and (max-width: 1024px){
     .image-grid{
         --num-cols: 2;
