@@ -388,23 +388,6 @@ h2{
     margin-top: 420px;
     text-align: center;
 }
-h3
-{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #00008B;
-    text-shadow: 0 2px rgba(0,0,0,0.5);
-    font-size: 20px;
-    margin-top: 420px;
-    text-align: center;
-}
-h4{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #00008B;
-    text-shadow: 0 2px rgba(0,0,0,0.5);
-    font-size: 15px;
-    margin-top: 420px;
-    text-align: center;
-}
 .image-grid{
     --gap: 16px;
     --num-cols: 4;
