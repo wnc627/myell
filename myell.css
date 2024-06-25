@@ -5,6 +5,7 @@ body{
 .myell{
     height: 500px;
     width: 500px;
+    size: 500px;
 }
 .background{
     height: 550px;
@@ -69,7 +70,7 @@ body{
     left: 4.5px;
 }
 .girl:hover, .eyeball1{
-    animation: 10s see1;
+    animation: 7s see1;
 }
 @keyframes see1 {
     50%{
@@ -78,7 +79,7 @@ body{
     }
 }
 .girl:hover, .eyeball2{
-    animation: 10s see2;
+    animation: 7s see2;
 }
 @keyframes see2 {
     50%{
@@ -145,7 +146,7 @@ body{
     border-bottom-right-radius: 70px;
 }
 .girl:hover, .mouth{
-    animation: blow 10s;
+    animation: blow 7s;
 }
 @keyframes blow {
     50%{
@@ -371,7 +372,7 @@ body{
 
 }
 .girl:hover, .flame{
-    animation: vanish 10s forwards;
+    animation: vanish 7s forwards;
 }
 @keyframes vanish{
     100%{
